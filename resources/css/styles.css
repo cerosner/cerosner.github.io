@@ -199,10 +199,10 @@ h1 {
   flex-direction: column;
   align-items: center;
   padding: .5rem;
-  border-top: 2px solid white;
-  border-left: 2px solid white;
-  border-right: 2px solid darkgrey;
-  border-bottom: 2px solid darkgrey;
+  border-top: 2px solid darkgrey;
+  border-left: 2px solid darkgrey;
+  border-right: 2px solid white;
+  border-bottom: 2px solid white;
   background-color:aliceblue;
   width: 85%;
 }
